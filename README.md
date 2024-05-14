@@ -1,1 +1,3 @@
 # ClashRules
+
+自用
