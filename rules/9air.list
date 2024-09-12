@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,channels.weixin.qq.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,tousu.sina.com.cn
 DOMAIN-SUFFIX,www.iesdouyin.com
+IP-CIDR,10.10.2.5/8
+IP-CIDR,10.10.13.2/8
